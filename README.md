@@ -22,11 +22,15 @@ It uses **Selenium** to collect flight data and **Pandas**, **Matplotlib**, and 
 ## 🗂️ Project Structure
 
 airline-ticket-price-analysis/
-├── scraper.py # Web scraping script using Selenium
-├── analysis.ipynb # Data analysis and visualization notebook
-├── Indian Airlines.csv # Saved flight data from scraping
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+--- scraper.py # Web scraping script using Selenium
+
+--= analysis.ipynb # Data analysis and visualization notebook
+
+--- Indian Airlines.csv # Saved flight data from scraping
+
+--- requirements.txt # Python dependencies
+
+--- README.md # Project documentation
 
 📊 Data Analysis & Visualizations
 Open analysis.ipynb in Jupyter or run it in any notebook environment.
