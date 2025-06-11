@@ -27,6 +27,7 @@ airline-ticket-price-analysis/
 ├── Indian Airlines.csv # Saved flight data from scraping
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+
 📊 Data Analysis & Visualizations
 Open analysis.ipynb in Jupyter or run it in any notebook environment.
 
